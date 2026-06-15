@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm [Stewart Murandi]
 
-<!--
-**StewartMurandi/StewartMurandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning [AI].
+- I'm interested in [AI, Nature].
+- I'm looking to collaborate on [Amateur Tasks].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- ["Python", "C++" "HTML/CSS", "Machine Learning"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Assigned Tasks](link) — Familiarization with AI via tasks
+
+## How to Reach Me
+- Email: [stewartmurandix@gmail.com]
+- LinkedIn: [your LinkedIn profile link]
+-
+- Where one ends another begins
